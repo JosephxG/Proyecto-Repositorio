@@ -1,0 +1,8 @@
+Algoritmo sin_titulo
+	Escribir "INGRESE HORAS DE TRABAJO:";
+	Leer hora;
+	Escribir "ingrese su salario:";
+	Leer salario;
+	salario<-hora * salario
+	 escribir salario
+FinAlgoritmo
